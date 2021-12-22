@@ -1,5 +1,5 @@
 # climate
-
+Generate your own api key on openweathermap site
 A new Flutter project.
 
 ## Getting Started
